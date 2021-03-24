@@ -51,23 +51,23 @@ function myKeyDown(e){
         document.getElementById('current_height').innerHTML = block_image_height;
     }
     if(keyPressed == "70"){
-        new_image('images/ironman_face.png');
+        new_image('ironman_face.png');
         console.log('f');
     }
     if(keyPressed == "66"){
-        new_image('images/spiderman_body.png');
+        new_image('spiderman_body.png');
         console.log('b');
     }
     if(keyPressed == "82"){
-        new_image('images/thor_right_hand.png');
+        new_image('thor_right_hand.png');
         console.log('r');
     }
     if(keyPressed == "72"){
-        new_image('images/captain_america_left_hand.png');
+        new_image('captain_america_left_hand.png');
         console.log('h');
     }
     if(keyPressed == "76"){
-        new_image('images/hulk_legs.png');
+        new_image('hulk_legs.png');
         console.log("l");
     }
     if(keyPressed == '38'){
